@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MadLibGenerator</string>
+    <string name="enter_noun">give me a noun</string>
+    <string name="enter_plural_noun">give me a plural noun</string>
+    <string name="enter_verb">give me a verb</string>
+    <string name="enter_adjective">give me an adjective</string>
+    <string name="enter_adverb">give me an adverb</string>
+    <string name="output">output</string>
+</resources>
